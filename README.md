@@ -1,0 +1,1 @@
+Eine Spielwiese für die Git-Schulung
