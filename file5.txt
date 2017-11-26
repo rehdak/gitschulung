@@ -1,2 +1,3 @@
 commit 5
-Ich mÃ¶chte hier jetzt einen Konflikt erzeugen 
+commit 5
+Ich möchte hier jetzt einen Konflikt erzeugen 
